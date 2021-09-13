@@ -6,7 +6,7 @@ I like building Web Applications using React.
 ⚡ Fun Facts:
 - 🌱 I’m currently learning Javascript, CSS, Python & Jekyll
 - 🕹️ I like making videogames using C# and Unity3D, currently working on my own solo title!
-- 📫 How to reach me: https://kylehuynh.dev
+- 📫 How to reach me: www.kylehuynh.dev
 - 😄 Pronouns: He/Him
 
  ### ⭐ GitHub Stats
