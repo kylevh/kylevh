@@ -4,8 +4,8 @@
 I like building Web Applications using React.
 
 ⚡ Fun Facts:
-- 👯 I’m looking to collaborate on projects that are using Flutter.
-- 🕹️ I like prototyping my own videogames using C# and Unity3D
+- 🌱 I’m currently learning Javascript, CSS, Python & Jekyll
+- 🕹️ I like making videogames using C# and Unity3D, currently working on my own solo title!
 - 📫 How to reach me: https://kylehuynh.dev
 - 😄 Pronouns: He/Him
 
