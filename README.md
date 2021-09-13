@@ -1,16 +1,27 @@
-### Hi there 👋
 
-<!--
-**kylevh/kylevh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hi, I am Kyle Huynh <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> it's nice to meet you|
 
-Here are some ideas to get you started:
+I like building Web Applications using React.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⚡ Fun Facts:
+- 👯 I’m looking to collaborate on projects that are using Flutter.
+- 🌱 I’m currently learning Flutter and Competative Programming.
+- 📫 How to reach me: https://kylehuynh.dev
+- 😄 Pronouns: He/Him
+
+ ### ⭐ GitHub Stats
+
+ <p> 
+    <img src="https://github-readme-stats.vercel.app/api?username=kylevh&count_private=true&show_icons=true&theme=default&line" alt="Kyle Stats" width="420"/> 
+ </p>
+
+### Let's Connect :coffee:
+<p align="center">
+	<a href="https://github.com/kylevh"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
+	<a href="https://www.linkedin.com/in/kylevhuynh/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
+	<a href="https://kylehuynh.dev"><alt="Website"/></a>
+</p>
+
+-----
+
+Last Updated on: 09/13/2021
