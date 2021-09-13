@@ -1,7 +1,7 @@
 
 ## Hi, I am Kyle Huynh <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> it's nice to meet you|
 
-I like building Web Applications using React.
+I'm an undergrad studying Computer Science and Software Engineering at the University of Washington Bothell.
 
 ⚡ Fun Facts:
 - 🌱 I’m currently learning Javascript, CSS, Python & Jekyll
