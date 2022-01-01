@@ -4,9 +4,9 @@
 I'm an undergrad studying Computer Science and Software Engineering at the University of Washington Bothell.
 
 ⚡ Fun Facts:
-- 🌱 I’m currently learning Javascript, CSS, Python & Jekyll
+- 🌱 I’m currently learning Javascript, CSS, Python & React.js
 - 🕹️ I like making videogames using C# and Unity3D, currently working on my own solo title!
-- 📫 How to reach me: kylehmizu@gmail.com
+- 📫 How to reach me: kylevh@outlook.com
 - 😄 Pronouns: He/Him
 
  ### ⭐ GitHub Stats
