@@ -1,7 +1,7 @@
 
 ## Hi, I am Kyle Huynh <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> it's nice to meet you|
 
-I'm an undergrad studying Computer Science and Software Engineering at the University of Washington Bothell.
+I'm a recent graduate of the University of Washington Bothell majoring in Computer Science & Software Engineering. My areas of interest include UI/UX, web development, DevOps, and game development.
 
 ⚡ Fun Facts:
 - 🌱 I’m currently learning Javascript, CSS, Python & React.js
