@@ -26,9 +26,6 @@ I am a software engineer, indie game dev, and hiker based in Seattle, WA. Curren
   <picture title="MongoDB">
     <img src="https://api.iconify.design/logos:mongodb-icon.svg" alt="mongodb" width="40" height="40"/>
   </picture>
-  <picture title="JSON Web Token">
-    <img src="https://api.iconify.design/logos:jwt-icon.svg" alt="vercel" width="40" height="40"/>
-  </picture>
   <picture title="Git">
     <img src="https://api.iconify.design/logos:git-icon.svg" alt="git" width="40" height="40"/>
   </picture>
@@ -64,7 +61,7 @@ I am a software engineer, indie game dev, and hiker based in Seattle, WA. Curren
     <td valign="top">
       <h3 align="center"><a href="https://www.tamagrow.io/" target="_blank"><strong>Tamagrow</strong></a></h3>
       <p align="center">React | TypeScript | Node</p>
-      <p>"Tamagrow.io is a desktop overlay application that enhances gameplay with an interactive pet companion powered by real-time game data. The React.js frontend delivers fluid animations and responsive interactions and is powered by a serverless AWS backend. The companion evolves and responds to player actions in real-time, creating a unique experience that grows with each gaming session."</p>
+      <p>Tamagrow.io is a desktop overlay application that enhances gameplay with an interactive pet companion powered by real-time game data. The React.js frontend delivers fluid animations and responsive interactions and is powered by a serverless AWS backend. The companion evolves and responds to player actions in real-time, creating a unique experience that grows with each gaming session.</p>
 <!--       <p align="center"><a href="https://github.com/ozpstudios/tamagrow-ow-app" target="_blank"><i>GitHub Repository</i></a></p> -->
     </td>
   </tr>
